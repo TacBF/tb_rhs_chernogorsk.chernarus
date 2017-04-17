@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Chernogorsk">
+
+	<Key ID="STR_TB_missionTitle_TB_Chernogorsk">
+		<Original>Chernogorsk</Original>
+		<English>Chernogorsk</English>
+		<German>Chernogorsk</German>
+		<Italian>Chernogorsk</Italian>
+		<Spanish>Chernogorsk</Spanish>
+		<French>Chernogorsk</French>
+		<Czech>Chernogorsk</Czech>
+		<Russian>Chernogorsk</Russian>
+		<Polish>Chernogorsk</Polish>
+		<Hungarian>Chernogorsk</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Chernogorsk">
+		<Original>TacBF A&amp;S[T-10]: Chernogorsk</Original>
+		<English>TacBF A&amp;S[T-10]: Chernogorsk</English>
+		<German>TacBF A&amp;S[T-10]: Chernogorsk</German>
+		<Italian>TacBF A&amp;S[T-10]: Chernogorsk</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Chernogorsk</Spanish>
+		<French>TacBF A&amp;S[T-10]: Chernogorsk</French>
+		<Czech>TacBF A&amp;S[T-10]: Chernogorsk</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Chernogorsk</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Chernogorsk</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Chernogorsk</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
